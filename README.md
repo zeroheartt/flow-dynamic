@@ -8,6 +8,8 @@
 보유한 유속 격자, 흐름격자, 수심 격자 파일을 업로드 하면, 아래와 같이 동적 가시화된 물의 흐름이  웹에서 서비스됩니다.
 
 - Live Demo : http://210.92.123.200/flowmap/index_osim_G2D_Sample_20240307.html
+  
+  ![Screenshot](/screenshots/Cheongmicheon_Dynamic_flow.gif?raw=true)
 
 ## 입력 데이터
 - G2D 플러그인을 통해 산출된 유속 격자 및 흐름 격자 결과물을 입력 데이터로 사용할 수 있습니다. 
